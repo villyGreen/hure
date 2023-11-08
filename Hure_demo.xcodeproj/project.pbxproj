@@ -14,6 +14,25 @@
 		E6C57ED82AFA8CA500C15068 /* Hure_demo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E6C57ED62AFA8CA500C15068 /* Hure_demo.xcdatamodeld */; };
 		E6C57EDA2AFA8CA600C15068 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6C57ED92AFA8CA600C15068 /* Assets.xcassets */; };
 		E6C57EDD2AFA8CA600C15068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6C57EDB2AFA8CA600C15068 /* LaunchScreen.storyboard */; };
+		E6C57F022AFA99F700C15068 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = E6C57F012AFA99F700C15068 /* SwiftSoup */; };
+		E6C57F092AFA9D0D00C15068 /* form.html in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F032AFA9D0D00C15068 /* form.html */; };
+		E6C57F0B2AFA9D0D00C15068 /* result.html in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F052AFA9D0D00C15068 /* result.html */; };
+		E6C57F0C2AFA9D0D00C15068 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F062AFA9D0D00C15068 /* style.css */; };
+		E6C57F132AFA9D2100C15068 /* theme.css in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F102AFA9D2100C15068 /* theme.css */; };
+		E6C57F142AFA9D2100C15068 /* typeahead.css in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F112AFA9D2100C15068 /* typeahead.css */; };
+		E6C57F152AFA9D2100C15068 /* selectize.css in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F122AFA9D2100C15068 /* selectize.css */; };
+		E6C57F1C2AFA9D3A00C15068 /* woobro-human-design.woff in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F172AFA9D3A00C15068 /* woobro-human-design.woff */; };
+		E6C57F1D2AFA9D3A00C15068 /* woobro-human-design.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F182AFA9D3A00C15068 /* woobro-human-design.woff2 */; };
+		E6C57F1E2AFA9D3A00C15068 /* woobro-human-design.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F192AFA9D3A00C15068 /* woobro-human-design.ttf */; };
+		E6C57F1F2AFA9D3A00C15068 /* woobro-human-design.eot in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F1A2AFA9D3A00C15068 /* woobro-human-design.eot */; };
+		E6C57F202AFA9D3A00C15068 /* woobro-human-design.svg in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F1B2AFA9D3A00C15068 /* woobro-human-design.svg */; };
+		E6C57F262AFA9D5300C15068 /* jquery.js in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F222AFA9D5200C15068 /* jquery.js */; };
+		E6C57F272AFA9D5300C15068 /* typeahead.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F232AFA9D5200C15068 /* typeahead.bundle.js */; };
+		E6C57F282AFA9D5300C15068 /* selectize.js in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F242AFA9D5200C15068 /* selectize.js */; };
+		E6C57F292AFA9D5300C15068 /* main.js in Resources */ = {isa = PBXBuildFile; fileRef = E6C57F252AFA9D5300C15068 /* main.js */; };
+		E6C57F2C2AFAAB2B00C15068 /* SVGKit in Frameworks */ = {isa = PBXBuildFile; productRef = E6C57F2B2AFAAB2B00C15068 /* SVGKit */; };
+		E6C57F2E2AFAAB2B00C15068 /* SVGKitSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E6C57F2D2AFAAB2B00C15068 /* SVGKitSwift */; };
+		E6C57F302AFAAB4A00C15068 /* GGG.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C57F2F2AFAAB4A00C15068 /* GGG.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +45,22 @@
 		E6C57ED92AFA8CA600C15068 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6C57EDC2AFA8CA600C15068 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E6C57EDE2AFA8CA600C15068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6C57F032AFA9D0D00C15068 /* form.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = form.html; sourceTree = "<group>"; };
+		E6C57F052AFA9D0D00C15068 /* result.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = result.html; sourceTree = "<group>"; };
+		E6C57F062AFA9D0D00C15068 /* style.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		E6C57F102AFA9D2100C15068 /* theme.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = theme.css; sourceTree = "<group>"; };
+		E6C57F112AFA9D2100C15068 /* typeahead.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = typeahead.css; sourceTree = "<group>"; };
+		E6C57F122AFA9D2100C15068 /* selectize.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = selectize.css; sourceTree = "<group>"; };
+		E6C57F172AFA9D3A00C15068 /* woobro-human-design.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "woobro-human-design.woff"; sourceTree = "<group>"; };
+		E6C57F182AFA9D3A00C15068 /* woobro-human-design.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "woobro-human-design.woff2"; sourceTree = "<group>"; };
+		E6C57F192AFA9D3A00C15068 /* woobro-human-design.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "woobro-human-design.ttf"; sourceTree = "<group>"; };
+		E6C57F1A2AFA9D3A00C15068 /* woobro-human-design.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "woobro-human-design.eot"; sourceTree = "<group>"; };
+		E6C57F1B2AFA9D3A00C15068 /* woobro-human-design.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "woobro-human-design.svg"; sourceTree = "<group>"; };
+		E6C57F222AFA9D5200C15068 /* jquery.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jquery.js; sourceTree = "<group>"; };
+		E6C57F232AFA9D5200C15068 /* typeahead.bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = typeahead.bundle.js; sourceTree = "<group>"; };
+		E6C57F242AFA9D5200C15068 /* selectize.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = selectize.js; sourceTree = "<group>"; };
+		E6C57F252AFA9D5300C15068 /* main.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+		E6C57F2F2AFAAB4A00C15068 /* GGG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GGG.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +68,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6C57F2E2AFAAB2B00C15068 /* SVGKitSwift in Frameworks */,
+				E6C57F2C2AFAAB2B00C15068 /* SVGKit in Frameworks */,
+				E6C57F022AFA99F700C15068 /* SwiftSoup in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,7 +98,9 @@
 			children = (
 				E6C57ECD2AFA8CA500C15068 /* AppDelegate.swift */,
 				E6C57ECF2AFA8CA500C15068 /* SceneDelegate.swift */,
+				E6C57F2F2AFAAB4A00C15068 /* GGG.swift */,
 				E6C57ED12AFA8CA500C15068 /* ViewController.swift */,
+				E6C57EE42AFA8DC100C15068 /* JS */,
 				E6C57ED32AFA8CA500C15068 /* Main.storyboard */,
 				E6C57ED92AFA8CA600C15068 /* Assets.xcassets */,
 				E6C57EDB2AFA8CA600C15068 /* LaunchScreen.storyboard */,
@@ -68,6 +108,52 @@
 				E6C57ED62AFA8CA500C15068 /* Hure_demo.xcdatamodeld */,
 			);
 			path = Hure_demo;
+			sourceTree = "<group>";
+		};
+		E6C57EE42AFA8DC100C15068 /* JS */ = {
+			isa = PBXGroup;
+			children = (
+				E6C57F212AFA9D4C00C15068 /* js */,
+				E6C57F162AFA9D3000C15068 /* fonts */,
+				E6C57F0F2AFA9D1A00C15068 /* css */,
+				E6C57F032AFA9D0D00C15068 /* form.html */,
+				E6C57F052AFA9D0D00C15068 /* result.html */,
+				E6C57F062AFA9D0D00C15068 /* style.css */,
+			);
+			path = JS;
+			sourceTree = "<group>";
+		};
+		E6C57F0F2AFA9D1A00C15068 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				E6C57F122AFA9D2100C15068 /* selectize.css */,
+				E6C57F102AFA9D2100C15068 /* theme.css */,
+				E6C57F112AFA9D2100C15068 /* typeahead.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		E6C57F162AFA9D3000C15068 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				E6C57F1A2AFA9D3A00C15068 /* woobro-human-design.eot */,
+				E6C57F1B2AFA9D3A00C15068 /* woobro-human-design.svg */,
+				E6C57F192AFA9D3A00C15068 /* woobro-human-design.ttf */,
+				E6C57F172AFA9D3A00C15068 /* woobro-human-design.woff */,
+				E6C57F182AFA9D3A00C15068 /* woobro-human-design.woff2 */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		E6C57F212AFA9D4C00C15068 /* js */ = {
+			isa = PBXGroup;
+			children = (
+				E6C57F222AFA9D5200C15068 /* jquery.js */,
+				E6C57F252AFA9D5300C15068 /* main.js */,
+				E6C57F242AFA9D5200C15068 /* selectize.js */,
+				E6C57F232AFA9D5200C15068 /* typeahead.bundle.js */,
+			);
+			path = js;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -86,6 +172,11 @@
 			dependencies = (
 			);
 			name = Hure_demo;
+			packageProductDependencies = (
+				E6C57F012AFA99F700C15068 /* SwiftSoup */,
+				E6C57F2B2AFAAB2B00C15068 /* SVGKit */,
+				E6C57F2D2AFAAB2B00C15068 /* SVGKitSwift */,
+			);
 			productName = Hure_demo;
 			productReference = E6C57ECA2AFA8CA500C15068 /* Hure_demo.app */;
 			productType = "com.apple.product-type.application";
@@ -114,6 +205,10 @@
 				Base,
 			);
 			mainGroup = E6C57EC12AFA8CA500C15068;
+			packageReferences = (
+				E6C57F002AFA99F700C15068 /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+				E6C57F2A2AFAAB2B00C15068 /* XCRemoteSwiftPackageReference "SVGKit" */,
+			);
 			productRefGroup = E6C57ECB2AFA8CA500C15068 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -128,9 +223,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6C57F292AFA9D5300C15068 /* main.js in Resources */,
+				E6C57F1D2AFA9D3A00C15068 /* woobro-human-design.woff2 in Resources */,
+				E6C57F152AFA9D2100C15068 /* selectize.css in Resources */,
+				E6C57F092AFA9D0D00C15068 /* form.html in Resources */,
+				E6C57F0B2AFA9D0D00C15068 /* result.html in Resources */,
+				E6C57F262AFA9D5300C15068 /* jquery.js in Resources */,
+				E6C57F0C2AFA9D0D00C15068 /* style.css in Resources */,
+				E6C57F272AFA9D5300C15068 /* typeahead.bundle.js in Resources */,
+				E6C57F1F2AFA9D3A00C15068 /* woobro-human-design.eot in Resources */,
+				E6C57F282AFA9D5300C15068 /* selectize.js in Resources */,
 				E6C57EDD2AFA8CA600C15068 /* LaunchScreen.storyboard in Resources */,
+				E6C57F1E2AFA9D3A00C15068 /* woobro-human-design.ttf in Resources */,
+				E6C57F202AFA9D3A00C15068 /* woobro-human-design.svg in Resources */,
+				E6C57F142AFA9D2100C15068 /* typeahead.css in Resources */,
 				E6C57EDA2AFA8CA600C15068 /* Assets.xcassets in Resources */,
+				E6C57F1C2AFA9D3A00C15068 /* woobro-human-design.woff in Resources */,
 				E6C57ED52AFA8CA500C15068 /* Main.storyboard in Resources */,
+				E6C57F132AFA9D2100C15068 /* theme.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6C57F302AFAAB4A00C15068 /* GGG.swift in Sources */,
 				E6C57ED22AFA8CA500C15068 /* ViewController.swift in Sources */,
 				E6C57ECE2AFA8CA500C15068 /* AppDelegate.swift in Sources */,
 				E6C57ED82AFA8CA500C15068 /* Hure_demo.xcdatamodeld in Sources */,
@@ -294,6 +405,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 865KW5QMSV;
@@ -311,6 +423,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lashlyn23.Hure-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -322,6 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 865KW5QMSV;
@@ -339,6 +453,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lashlyn23.Hure-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -367,6 +482,43 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E6C57F002AFA99F700C15068 /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.6.1;
+			};
+		};
+		E6C57F2A2AFAAB2B00C15068 /* XCRemoteSwiftPackageReference "SVGKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SVGKit/SVGKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E6C57F012AFA99F700C15068 /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E6C57F002AFA99F700C15068 /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+		E6C57F2B2AFAAB2B00C15068 /* SVGKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E6C57F2A2AFAAB2B00C15068 /* XCRemoteSwiftPackageReference "SVGKit" */;
+			productName = SVGKit;
+		};
+		E6C57F2D2AFAAB2B00C15068 /* SVGKitSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E6C57F2A2AFAAB2B00C15068 /* XCRemoteSwiftPackageReference "SVGKit" */;
+			productName = SVGKitSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		E6C57ED62AFA8CA500C15068 /* Hure_demo.xcdatamodeld */ = {
